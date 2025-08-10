@@ -1,6 +1,6 @@
 ---
 title: hello
-published: 2025-8-10
+published: 2025-08-10
 description: '……'
 image: 'https://pic.atxe.qzz.io/h'
 tags: [welcome]
