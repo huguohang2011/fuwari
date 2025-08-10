@@ -14,7 +14,7 @@ pinned: true
 
 本博客是基于`魔改的fuwari`搭建
 
-::: tip
+:::tip
 
 希望大家能为原作者的项目给一个star
 
