@@ -1,4 +1,7 @@
-# 🍥Fuwari
+# 🍥Fuwari  
+
+原项目地址：https://github.com/saicaca/fuwari  
+魔改版项目地址：https://github.com/afoim/fuwari
 
 A static blog template built with [Astro](https://astro.build).
 
