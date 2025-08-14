@@ -1,10 +1,10 @@
 ---
 title: 资本主义与民主
-published: 2025-08-15
+published: 2025-08-18
 description: '仅为个人观点，请勿过分解读'
 tags: [制度]
 categories: '讲解'
-draft: false
+draft: true
 ---
 # 资本主义  
 资本主义是一种`经济制度`，它的核心特征是`资本（生产资料）归私人或私人企业所有，并以追求利润为主要目的`  
