@@ -75,11 +75,11 @@ export const navBarConfig: NavBarConfig = {
 			// url: "/donate/", // Internal links should not include the base path, as it is automatically added
 			// external: false, // Show an external link icon and will open in a new tab
 		// },
-		// {
-			// name: "统计",
-			// url: "https://umami.2x.nz/share/ZyDjOrmjaBTlmGtd", // Internal links should not include the base path, as it is automatically added
-			// external: true, // Show an external link icon and will open in a new tab
-		// },
+		{
+			name: "统计",
+			url: "https://umami.at13xe.qzz.io/share/NlmJL6L7mj7QybbU", // Internal links should not include the base path, as it is automatically added
+			external: true, // Show an external link icon and will open in a new tab
+		},
 		// {
 			// name: "状态",
 			// url: "https://ss.2x.nz/", // Internal links should not include the base path, as it is automatically added
@@ -120,7 +120,7 @@ export const imageFallbackConfig: ImageFallbackConfig = {
 
 export const umamiConfig: UmamiConfig = {
 	enable: false,
-	baseUrl: "https://umami.2x.nz",
-	shareId: "ZyDjOrmjaBTlmGtd",
+	baseUrl: "https://umami.at13xe.qzz.io",
+	shareId: "NlmJL6L7mj7QybbU",
 	timezone: "Asia/Shanghai",
 };
