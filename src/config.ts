@@ -77,7 +77,7 @@ export const navBarConfig: NavBarConfig = {
 		// },
 		{
 			name: "统计",
-			url: "https://umami.at13xe.qzz.io/share/NlmJL6L7mj7QybbU", // Internal links should not include the base path, as it is automatically added
+			url: "https://umami.at13xe.qzz.io/share/J6zgvPPmmSIQpkXX", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 		// {
@@ -121,6 +121,6 @@ export const imageFallbackConfig: ImageFallbackConfig = {
 export const umamiConfig: UmamiConfig = {
 	enable: false,
 	baseUrl: "https://umami.at13xe.qzz.io",
-	shareId: "NlmJL6L7mj7QybbU",
+	shareId: "J6zgvPPmmSIQpkXX",
 	timezone: "Asia/Shanghai",
 };
