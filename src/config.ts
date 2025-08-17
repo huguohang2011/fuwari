@@ -120,7 +120,7 @@ export const imageFallbackConfig: ImageFallbackConfig = {
 
 export const umamiConfig: UmamiConfig = {
 	enable: false,
-	baseUrl: "https://umami.at13xe.qzz.io",
-	shareId: "J6zgvPPmmSIQpkXX",
+	baseUrl: "https://umami.natlify.app",
+	shareId: "7RFs2tSQQnjFoRCZ",
 	timezone: "Asia/Shanghai",
 };
