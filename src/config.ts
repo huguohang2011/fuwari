@@ -34,7 +34,7 @@ export const siteConfig: SiteConfig = {
 	},
 	background: {
 		enable: true, // Enable background image
-		src: "https://pic.atxe.qzz.io/h", // Background image URL (supports HTTPS)
+		src: "https://pic.at13xe.top/h", // Background image URL (supports HTTPS)
 		position: "center", // Background position: 'top', 'center', 'bottom'
 		size: "cover", // Background size: 'cover', 'contain', 'auto'
 		repeat: "no-repeat", // Background repeat: 'no-repeat', 'repeat', 'repeat-x', 'repeat-y'
@@ -62,7 +62,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "随机图",
-			url: "https://pic.atxe.qzz.io",
+			url: "https://pic.at13xe.top",
             external: true,
 		},
 		// {
