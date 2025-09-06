@@ -9,9 +9,9 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "AT13xe Blog",
+	title: "",
 	description:
-		"AT13xe's Blog",
+		"",
 
 	keywords: [],
 	lang: "zh_CN", // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
@@ -77,7 +77,7 @@ export const navBarConfig: NavBarConfig = {
 		// },
 		{
 			name: "统计",
-			url: "https://umami.at13xe.top/share/JaCVkX59PnWKQwi0", // Internal links should not include the base path, as it is automatically added
+			url: "https://huumami.netlify.app/share/XuUvxYiIrWVVR2y4", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 		// {
@@ -90,19 +90,19 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/5.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "AT13xe",
-	bio: "爱你所爱~ ❤",
+	name: "",
+	bio: "",
 	links: [
 		// {
 			// name: "Bilibli",
 			// icon: "fa6-brands:bilibili",
 			// url: "https://space.bilibili.com/325903362",
 		// },
-		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/AT13xe",
-		},
+		// {
+			// name: "GitHub",
+			// icon: "fa6-brands:github",
+			// url: "https://github.com/AT13xe",
+		// },
 	],
 };
 
