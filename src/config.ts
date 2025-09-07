@@ -22,7 +22,7 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: false,
-		src: "assets/5.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "assets/hutao.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
@@ -34,7 +34,7 @@ export const siteConfig: SiteConfig = {
 	},
 	background: {
 		enable: true, // Enable background image
-		src: "https://pic.at13xe.top/h", // Background image URL (supports HTTPS)
+		src: "assets/9.jpg", // Background image URL (supports HTTPS)
 		position: "center", // Background position: 'top', 'center', 'bottom'
 		size: "cover", // Background size: 'cover', 'contain', 'auto'
 		repeat: "no-repeat", // Background repeat: 'no-repeat', 'repeat', 'repeat-x', 'repeat-y'
@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// Leave this array empty to use the default favicon
 		{
-			src: "https://q2.qlogo.cn/headimg_dl?dst_uin=3639191908&spec=5", // Path of the favicon, relative to the /public directory
+			src: "assets/ht.jpg", // Path of the favicon, relative to the /public directory
 			//   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
 			sizes: '128x128',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
 		},
@@ -89,7 +89,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/5.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "assets/hutao.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "",
 	bio: "",
 	links: [
