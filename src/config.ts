@@ -21,8 +21,8 @@ export const siteConfig: SiteConfig = {
 		forceDarkMode: true, // Force dark mode and hide theme switcher
 	},
 	banner: {
-		enable: false,
-		src: "assets/hutao.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		enable: true,
+		src: "assets/9.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
@@ -33,7 +33,7 @@ export const siteConfig: SiteConfig = {
 		},
 	},
 	background: {
-		enable: true, // Enable background image
+		enable: false, // Enable background image
 		src: "assets/9.jpg", // Background image URL (supports HTTPS)
 		position: "center", // Background position: 'top', 'center', 'bottom'
 		size: "cover", // Background size: 'cover', 'contain', 'auto'
